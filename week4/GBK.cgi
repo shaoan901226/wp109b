@@ -1,4 +1,3 @@
-#!/usr/local/bin/perl
 $gbkhtml="/html/wp109b/week4/GBK.cgi";
 $gbkurl="https://shaoan901226.github.io/wp109b/week4/gbk.html";
 read(STDIN, $temp, $ENV{'CONTENT_LENGTH'});
