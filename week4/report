@@ -1,0 +1,10 @@
+# 留言板、背景顏色、圖片、超連結
+
+* 參考資料來自:[https://ithelp.ithome.com.tw/articles/10236775](https://ithelp.ithome.com.tw/articles/10236775)
+以及王澤瑋同學:[https://github.com/nakirifumiya/wp109b/blob/main/hw/hwfinal/site.html](https://github.com/nakirifumiya/wp109b/blob/main/hw/hwfinal/site.html)
+
+---
+
+## 功能:
+* 輸入文字後按下按鈕，會送出文字內容以及送出時間
+* 網頁內附有超連結，可以連結到學習筆記
